@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="CHECK" transform="translate(3.500000, 3.500000)" stroke="#FFFFFF" stroke-width="3.4">
+            <path d="M42.6065033,17.3848839 C42.8648181,18.7168842 43,20.0930516 43,21.5007625 C43,33.3742951 33.3746365,43 21.5,43 C9.62688843,43 0,33.3742951 0,21.5007625 C0,9.62570486 9.62688843,0 21.5,0 C25.1174684,0 28.5263253,0.893941255 31.5184707,2.4721573" id="Stroke-1"></path>
+            <polyline id="Stroke-3" points="12 19.708127 21.136417 29 39 8"></polyline>
+        </g>
+    </g>
+</svg>
