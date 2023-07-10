@@ -21,7 +21,6 @@ let slide = setInterval(() => {
   brands[current + 3].classList.add("active");
   current++;
 }, 2000);
-clearInterval(slide);
 
 // LANGUAGES
 let languages = document.getElementById("languages");
@@ -30,6 +29,7 @@ let nav_menu = menu.children[0];
 // console.log();
 languages.onchange = () => {
   if (languages.value == "english") {
+    document.body.style.fontFamily = "Poppins";
     document.body.style.direction = "ltr";
     // HEADER
     nav_menu.children[0].children[0].textContent = "written studies";
